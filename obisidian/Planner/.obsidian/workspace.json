@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "9deeb7a343db0333",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc788e687a53c5b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10470af7c0b24c3d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fec79d1a9ffa0b5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "92a1ae3db1499e67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40c9aff0a39254f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c2e811d7989f920",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab95ef1e3c6290ca",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.51103591918945
+  },
+  "right": {
+    "id": "7878467710a10474",
+    "type": "split",
+    "children": [
+      {
+        "id": "1294dd2fbb4c8f62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6be38fcca177c31c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "db02864881a53a95",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d7e88bbefc57377",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8382e8e3d138a2bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "markdown-importer:Abrir importador Markdown": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Criar um novo quadro": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "10470af7c0b24c3d",
+  "lastOpenFiles": [
+    "💻 Kanban/💩 Tarefas.md",
+    "Cursos/Métricas Ágeis - como medir resultados em uma ambiente ágil.md",
+    "💻 Kanban/Acesso a conta digital.md",
+    "💻 Kanban/Tarefa importante Alex.md",
+    "💻 Kanban/👽 Tarefa importantes.md",
+    "💻 Kanban/Dock - Demora em responder.md",
+    "💻 Kanban/Pix personalizado (QR Code).md",
+    "💻 Kanban/Alteração telas relatórios litros horas.md",
+    "💻 Kanban/4889 - Número da NFSe no boleto (boleto fatura).md",
+    "💻 Kanban/VPO.md",
+    "💻 Kanban/Sprint 22 - Esquadrões.md",
+    "💻 Kanban/4624 - Melhorias na tela liberação de transação.md",
+    "💻 Kanban/Gerenciamento de Tags.md",
+    "💻 Kanban/Pré pago.md",
+    "💻 Kanban/Adiantamento.md",
+    "💻 Kanban/Daily do bank verificar.md",
+    "💻 Kanban/Osvaldo - duvidas.md",
+    "💻 Kanban/Pix personalizado suporte.md",
+    "💻 Kanban/code review projetos.md",
+    "💻 Kanban/Conta digital - mais de um acesso.md",
+    "💻 Kanban/Pedido Alex - Tarefas prioridades.md",
+    "💻 Kanban/5188 - Solicitação de Ajuste na Emissão de Notas para Filiais com Orientação de CNPJ na Transação T-PAG.md",
+    "💻 Kanban/✅ Desempenho dos times.md",
+    "💻 Kanban/Claudio - app.md",
+    "💻 Kanban/✅ Melhorias no time de análise.md",
+    "💻 Kanban/✅ Melhorias no processo com o Misa.md",
+    "Pessoal",
+    "Pasted image 20240926191912.png",
+    "Estudos/Pasted image 20240924204700.png",
+    "Pensamentos",
+    "Calendario",
+    "💻 Kanban/Pasted image 20240917110440.png",
+    "Truckpag/bd",
+    "Truckpag",
+    "Agendas",
+    "💻 Kanban",
+    "Estudos",
+    "Artigos",
+    "Cursos",
+    "Sem título 2.canvas",
+    "Sem título 1.canvas",
+    "Sem título.canvas",
+    "Tarefas/Pasted image 20240713131241.png"
+  ]
+}

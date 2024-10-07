@@ -1,0 +1,3 @@
+- Criar um programa para renomear a pasta CT-e do DFeMonitor quando apresenta falhas... 
+- montar uma planilha das minhas finanças futuras para conseguir organizar minhas contas; 
+- 

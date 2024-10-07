@@ -1,0 +1,21 @@
+{
+  "tag-sort": [],
+  "tag-colors": [
+    {
+      "tagKey": "#truckpag",
+      "color": "rgba(255, 255, 255, 1)",
+      "backgroundColor": "rgba(0, 130, 36, 1)"
+    },
+    {
+      "tagKey": "#objetivo",
+      "color": "rgba(0, 0, 0, 1)",
+      "backgroundColor": "rgba(224, 209, 0, 1)"
+    }
+  ],
+  "date-trigger": "@",
+  "date-colors": [],
+  "archive-with-date": true,
+  "show-checkboxes": false,
+  "hide-card-count": false,
+  "new-note-folder": "💻 Kanban"
+}
