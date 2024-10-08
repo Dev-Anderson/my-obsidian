@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "20cf4e70dbd5a639",
+        "id": "a2bdd37c3a73685c",
         "type": "tabs",
         "children": [
           {
-            "id": "f822538d025a712d",
+            "id": "ca38c2a544a61f1d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,6 +138,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f822538d025a712d",
-  "lastOpenFiles": []
+  "active": "ca38c2a544a61f1d",
+  "lastOpenFiles": [
+    "obisidian/Planner/💻 Kanban/👽 Tarefa importantes.md",
+    "obisidian/Planner/💻 Kanban/✅ Melhorias no processo com o Misa.md"
+  ]
 }

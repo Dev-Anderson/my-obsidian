@@ -11,8 +11,12 @@
             "id": "10470af7c0b24c3d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cursos/Métricas Ágeis - como medir resultados em uma ambiente ágil.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.51103591918945
+    "width": 396.5,
+    "collapsed": true
   },
   "right": {
     "id": "7878467710a10474",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cursos/Métricas Ágeis - como medir resultados em uma ambiente ágil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cursos/Métricas Ágeis - como medir resultados em uma ambiente ágil.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cursos/Métricas Ágeis - como medir resultados em uma ambiente ágil.md"
+              }
             }
           }
         ],
@@ -139,19 +148,18 @@
       "command-palette:Abrir paleta de comandos": false,
       "audio-recorder:Começar/parar a gravação de áudio": false,
       "markdown-importer:Abrir importador Markdown": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-kanban:Criar um novo quadro": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "github-sync:Sync with Remote": false
+      "obsidian-kanban:Criar um novo quadro": false
     }
   },
   "active": "10470af7c0b24c3d",
   "lastOpenFiles": [
+    "Cursos/Mindset digital técnicas habilidades para lideranças remotas.md",
     "💻 Kanban/💩 Tarefas.md",
+    "💻 Kanban/👽 Tarefa importantes.md",
+    "Pasted image 20240926191912.png",
     "Cursos/Métricas Ágeis - como medir resultados em uma ambiente ágil.md",
     "💻 Kanban/Acesso a conta digital.md",
     "💻 Kanban/Tarefa importante Alex.md",
-    "💻 Kanban/👽 Tarefa importantes.md",
     "💻 Kanban/Dock - Demora em responder.md",
     "💻 Kanban/Pix personalizado (QR Code).md",
     "💻 Kanban/Alteração telas relatórios litros horas.md",
@@ -172,9 +180,7 @@
     "💻 Kanban/✅ Desempenho dos times.md",
     "💻 Kanban/Claudio - app.md",
     "💻 Kanban/✅ Melhorias no time de análise.md",
-    "💻 Kanban/✅ Melhorias no processo com o Misa.md",
     "Pessoal",
-    "Pasted image 20240926191912.png",
     "Estudos/Pasted image 20240924204700.png",
     "Pensamentos",
     "Calendario",
