@@ -6,21 +6,25 @@ kanban-plugin: board
 
 ## backlog
 
-- [ ] [[Alteração telas relatórios litros horas]] #diretoria
+- [ ] [[4642 - Alteração de registro por um usuário que não tem permissão]] #diretoria
+- [ ] [[Osvaldo - duvidas]]
+- [ ] [[VPO]] #logistica
+- [ ] [[Cobrança de tarefas]]
+- [ ] [[Adiantamento]] #diretoria #logistica
+- [ ] [[5418 -Alteração telas relatórios litros horas]] #diretoria
 - [ ] [[Pix personalizado (QR Code)]] #diretoria
 - [ ] [[Gerenciamento de Tags]] #diretoria
 - [ ] [[Pré pago]] #diretoria
 - [ ] [[Conta digital - mais de um acesso]] #diretoria
 - [ ] [[PDD - financeiro]] #diretoria
 - [ ] [[Acesso a conta digital]]
-- [ ] [[Contabilidade - troca de contador]] #pessoal
 - [ ] [[acesso ao truckpag bank]] #logistica
+- [ ] [[Contabilidade - troca de contador]] #pessoal
 - [ ] [[pendencias Logistica]]
 - [ ] [[Logistica]]
 - [ ] [[Prioridade da planilha de Esquemas solicitações]] #truckpag #gestaofrotas
 - [ ] [[Prioridade com o Leo farmer]] #truckpag #gestaofrotas
 - [ ] pesquisar sobre KPI #pessoal
-- [ ] [[Integração Dealer -]] #truckpag #gestaomanutencao ^ibhp3l
 - [ ] [[Tarefas vencidas + 30 dias]] #truckpag #gestao
 - [ ] [[Priorização das tarefas Gestão de frotas]] #truckpag #gestaofrotas
 - [ ] [[Verificar tarefas de integração com o GF]] #truckpag
@@ -31,16 +35,15 @@ kanban-plugin: board
 
 ## fazendo
 
-- [ ] [[Adiantamento]] #diretoria #logistica
-- [ ] [[4624 - Melhorias na tela liberação de transação]]
-- [ ] [[Osvaldo - duvidas]]
-- [ ] [[VPO]] #logistica
+- [ ] [[Aviso de tarefas prontas]]
+- [ ] [[Integração Dealer,]] #truckpag #gestaomanutencao ^ibhp3l
 - [ ] [[👽 Tarefa importantes]]
-- [ ] Mostrar o ID na tela (cartão)
+- [ ] [[4624 - Melhorias na tela liberação de transação]]
 
 
 ## Concluido
 
+- [ ] Mostrar o ID na tela (cartão)
 - [ ] pagamento das contas
 - [ ] [[Tarefa importante Alex]]
 - [ ] [[Dock - Demora em responder]]

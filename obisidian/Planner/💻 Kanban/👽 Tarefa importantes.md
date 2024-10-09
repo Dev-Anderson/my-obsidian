@@ -2,80 +2,80 @@
 # Gestão de frotas
 ## Projetos
 🎯 Pix personalizado (prazo 08/10/2024)
-Djonatham vai concluir as correções até dia 08/10 foi enviado mensagem para o Ronaldo pra gente agendar o teste; 
+Não falei com a Maieza sobre as correções, não sei se subiu todas as correções, assim que ela entrar eu vou falar com ela. 
 5595 - mostrar saldo do PIX; 
+A tarefa está na sprint 22 
 
-🎯 Pré Pago 
-Sem prazo, hoje eu vou fazer o levantamento de todas as tarefas abertas para esse projeto; 
+🎯 Pré Pago (parado)
+Está parada para resolver os problemas do Pix, além dos bugs do Pix será necessário fazer a tarefa 5595 - Mostrar saldo do PIX antes de voltar para as tarefas do pré pago. 
 
-🎯 Segurança 
+🎯 Segurança (Em andamento - sem prazo)
 4642 - Alteração de registro por um usuário que não tem permissão
-Maieza passou a tarefa para o dev fazer no dia 01/10/2024 porém o dev ainda não terminou a tarefa que ele estava fazendo antes, vou verificar se ela pode dar um prazo pra essa tarefa; 
+	O dev pegou a tarefa para fazer
+5083 - Histórico de senha - André pediu atenção para essa tarefa;
+	André vai pegar a tarefa porque precisa urgente
 
 🎯 PDD - Previsão para devedores duvidosos (prazo 05/12/2024)
 Não vai entrar na sprint 22 (07 a 18/10), foi priorizado outra tarefa; 
+A tarefa vai entrar na sprint 23; 
 
-🎯 Régua de cobrança 
-Entra na próxima sprint 22 (07 a 18/10), depois da planning (dia 07/10) passo um prazo; 
-5534, 5613
+🎯 Régua de cobrança (sem prazo)
+As tarefas entraram para a sprint 22 que vai do dia 07/10 a 18/10; 
+As tarefas já foram iniciadas. 
 
-🎯 Tela de atendimento 
+🎯 Tela de atendimento (sem prazo)
 A tela está em protótipo junto com Vini + Noia e Ghesti, sem prazo por hora; 
 
-🎯 Gerenciamento de tags
-Ainda não consegui verificar as tarefas; 
+🎯 Gerenciamento de tags (sem prazo)
+5227 - Aplicação das permissões sobre "Nova tela parâmetros pedágio - veiculo x tags"
+Já está sendo concluído com o front-end; 
 
-🎯 5418 - Alteração nas telas de relatórios - Litros/Hora
-5419 - Alteração no relatório "Analitico de abastecimento" para litros/horas
-5420 - Alteração no relatório Listagem de abastecimento para litros/horas
-5421 - Alteração no relatório média de consumo por motorista para litros/horas
-5423 - Alteração no relatório média carregado/vazio para litros/horas
+🎯 5418 - Alteração nas telas de relatórios - Litros/Hora (prazo 14/10) 
+Falei com o Vini que o prazo para a analise é até dia 14/10, depois da análise eu vou verificar qual sprint isso vai entrar; 
 ## Tarefas
-🎯 5188 - CNPJ na transação no T-PAG (prazo 07/10/2024)
-OK
 
-🎯 5598 - Layout de integração "Classe formato padrão externo Avacorp para Frotas Pesadas"
-Prazo (08/10/2024) 
-OK
-
-🎯 5221 - Key Account cadastro de cliente
-Prazo (08/10/2024)
-OK
-
-🎯 5139 - Integração bomba interna Maranata
-Prazo (08/10/2024)
-OK
-
-🎯 4624 - Melhorias na tela de liberação de transação (prazo 18/10/2024)
-Foi solicitado prioridade para essa tarefa; 
+🎯 4624 - Melhorias na tela de liberação de transação (prazo 16/10/2024)
+Adiantado o prazo, pode terminar antes, porém é mais garantido dia 16/10
 
 # Gestão de manutenção
 ## Projetos
-🎯 Integração Dealer 
-1. Endpoint de consulta venda balcão está com falha (prazo 09/10/2024)
-2. Manual do novo endpoint consulta de faturamento
-3. Endpoint de cancelamento de OS (prazo 14/10/2024)
-4. Envio do e-mail avisando o endpoint de consulta e também formalizando como será o cancelamento
+🎯 Integração Dealer (Novembro 2024) 
+- Consulta venda balcão (OK)
+- Manual de consulta pagamento - concessionária
+	- Fiz alguns apontamentos no manual, que precisam ser melhorados
+- Manual de consulta de faturamento
+- Cancelamento de OS (prazo 14/10)
+	- Está dentro do prazo, tudo certo por hora; 
+- Envio de e-mail para o Dealer 
+	- Atualizado os manuais com o novo endpoint de consulta venda balcão
+- E-mail sobre o cancelamento de OS (prazo 14/10)
 
-🎯 Número da NFSe 
-✅Concluída
-Raul agendou reunião para o dia 08/10 com Fabio + Maria; 
+🎯 Número da NFSe (OK)
+- Cidades prioritárias que o Letti passou = OK 
+- Reunião sobre o funcionamento = OK 
 
+🎯 Campo de periodicidade (sem prazo)
+- Alteração perigosa, vai impactar no faturamento e também na integração do Dealer
+- Vou agendar uma reunião com os Devs para falar sobre o impacto na integração
+Observação:
+- Todas as alterações a partir de agora, pode impactar a integração com o Dealer, devemos tomar cuidado para não alterar o prazo do Dealer
 # Logistica
 🎯 VPO - Vale pedágio obrigatório (ATRASADO)
-Falei com o Ghesti Sexta feira sobre a liberação da correção, ele repassou que vai fazer os testes e depois vamos agendar um cliente para fazer o teste. 
+- Planilha de praça de pedágio + preço = OK 
+- Aguardando o Ghesti;
 
-🎯 Adiantamento 
-Geovani entrou de férias, agendado uma reunião para tratar do assunto; 
+🎯 Adiantamento (sem prazo)
+- Está em teste do QA
+- eu vou viabilizar um prazo ainda essa semana para essa tarefa; 
 
-🎯 Morpheus
-Paralisado, Alex cobrou no slack esse projeto está paralisado por hora, por outras prioridades (Cadastro de dispositivo); 
+🎯 Morpheus (parado)
+- Estamos com outras prioridades antes dessa implementação; 
 
 🎯 5592 - Gerenciamento de dispositivo (prazo 30/10/2024)
-Naty montou um esboço de como que seria o funcionamento eu estou eu vou validar isso junto com ela + Ghesti + Claudio. 
+- Eu estou validando o documento de analise antes de passar para os Devs, estamos alinhando as implementações que precisamos fazer; 
 
-🎯 Acesso de mais de um dispositivo na conta digital
-Projeto paralisado por hora, vamos dar prioridade na tarefa de cadastro de dispositivo; 
+🎯 Acesso de mais de um dispositivo na conta digital (parado)
+- Estamos com outras prioridades no time (Gerenciamento de dispositivo); 
 
-🎯 2222 - Permitir vincular clientes aos usuários
-Ainda não foi priorizado, vou falar com a Naty pra gente fazer isso o quanto antes; 
+🎯 2222 - Permitir vincular clientes aos usuários (Em andamento)
+- Tarefa entrou na sprint 22 (07 a 18/10) - essa tarefa não é prioridade para o time

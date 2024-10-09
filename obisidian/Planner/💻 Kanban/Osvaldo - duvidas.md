@@ -6,4 +6,4 @@ Tarefa = 5192 - Alterações nos relatórios
 # COmentários
 ## 04-10-2024
 ### 09:33
-precisa verificar isso como Ghesti e também o Vladineia sobre essa alteração, o esquema de data precisa ter em todas as telas que faz a exportação ?
+precisa verificar isso como Ghesti e também o valdinei sobre essa alteração, o esquema de data precisa ter em todas as telas que faz a exportação ?

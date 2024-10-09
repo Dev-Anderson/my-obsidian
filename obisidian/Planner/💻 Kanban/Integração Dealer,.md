@@ -22,6 +22,19 @@ Reunião para tratar dos testes dos endponits e como que será os testes;
 
 
 # Comentários
+## 08-10-2024
+### 14:21
+Dentro do manual de consulta pagamentos, deixei algumas observações para o Raul
+- Realizado reunião com o pessoal do Dealer
+- enviado e-mail para o pessoal do Dealer para atualizar os novos manuais
+- Avisado sobre o endpoint de consulta venda balcão está tudo certo 
+
+### 13:59
+reunião com o pessoal do Dealer vamos repassar o prazo 
+### 12:17
+falei com o Joel pra ele verificar junto com o Dev se o prazo ainda está de pé e se vamos conseguir entregar isso. 
+### 11:41
+O prazo do cancelamento ainda é dia 19/10
 ## 01-10-2024
 ### 14:28
 realizado reunião com o time Dealer + DAF 

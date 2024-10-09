@@ -17,7 +17,14 @@ Segundo prazo Fevereiro 2025
 - foi adicionado uma nova tag no kabanize com o nome "diretoria" para indicar as tarefas importantes
 ## Atualização da planilha das tarefas do Gestão de frotas 
 - agendado uma tarefa na minha agenda para fazer essa atualização 1 vez por semana
-## 
+## Como que será avisado o pessoal do negócio 
+Eu estou pensando em avisar o pessoal do negócio, 
+
+## Conversa com Tech Lead
+- A cobrança de tarefas ficará com os tech leads 
+- Cobrar as tarefas vencidas (é com o tech lead)
+- Receber a lista de tarefas que vai entrar na sprint isso será em todos os times
+- 
 ### Tarefas
 ✅ Acompanhar as tarefas importantes para cada projeto; 
 ✅ Falar com o lideres de negócio para saber as prioridades; 

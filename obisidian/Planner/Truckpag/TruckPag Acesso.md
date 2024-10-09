@@ -17,7 +17,7 @@ wcarrara@marinho.org Truckpag@@2023
 # Acesso ao Gestão
 url: [https://gestao.truckpag.com.br/](https://gestao.truckpag.com.br/)
 usuário: anderson.barbosa
-Senha: gracille
+Senha: gracielle@
 # VPN
 Tem um arquivo com o acesso para a VPN
 password: BFS9EDfhTPVUSRs

@@ -4,22 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "cc788e687a53c5b3",
+        "id": "fa17eb8e3dd56aee",
         "type": "tabs",
         "children": [
           {
-            "id": "10470af7c0b24c3d",
+            "id": "bce48bb896eab42f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "💻 Kanban/💩 Tarefas.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "fb6c4521d0f5dab2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Métricas Ágeis - como medir resultados em uma ambiente ágil.md",
+                "file": "💻 Kanban/👽 Tarefa importantes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec5fcc6bcd470e82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "💻 Kanban/Acompanhamento de tarefas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cursos/Métricas Ágeis - como medir resultados em uma ambiente ágil.md",
+                "file": "💻 Kanban/Acompanhamento de tarefas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cursos/Métricas Ágeis - como medir resultados em uma ambiente ágil.md",
+                "file": "💻 Kanban/Acompanhamento de tarefas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cursos/Métricas Ágeis - como medir resultados em uma ambiente ágil.md"
+                "file": "💻 Kanban/Acompanhamento de tarefas.md"
               }
             }
           }
@@ -151,35 +185,35 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "10470af7c0b24c3d",
+  "active": "ec5fcc6bcd470e82",
   "lastOpenFiles": [
-    "Cursos/Mindset digital técnicas habilidades para lideranças remotas.md",
-    "💻 Kanban/💩 Tarefas.md",
     "💻 Kanban/👽 Tarefa importantes.md",
-    "Pasted image 20240926191912.png",
+    "💻 Kanban/Acompanhamento de tarefas.md",
+    "💻 Kanban/💩 Tarefas.md",
+    "Sem título.md",
+    "Artigos/Kanban o que é, principais conceitos e como funcionado no dia a dia.md",
+    "Cursos/Kanban Evolua suas entregas com métricas.md",
     "Cursos/Métricas Ágeis - como medir resultados em uma ambiente ágil.md",
+    "💻 Kanban/4624 - Melhorias na tela liberação de transação.md",
+    "💻 Kanban/Integração Dealer,.md",
+    "💻 Kanban/Aviso de tarefas prontas.md",
+    "💻 Kanban/4642 - Alteração de registro por um usuário que não tem permissão.md",
+    "💻 Kanban/5418 -Alteração telas relatórios litros horas.md",
+    "💻 Kanban/VPO.md",
+    "💻 Kanban/Cobrança de tarefas.md",
+    "Truckpag/TruckPag Acesso.md",
+    "💻 Kanban/Osvaldo - duvidas.md",
+    "💻 Kanban/Adiantamento.md",
+    "Cursos/Mindset digital técnicas habilidades para lideranças remotas.md",
+    "Pasted image 20240926191912.png",
     "💻 Kanban/Acesso a conta digital.md",
     "💻 Kanban/Tarefa importante Alex.md",
     "💻 Kanban/Dock - Demora em responder.md",
     "💻 Kanban/Pix personalizado (QR Code).md",
-    "💻 Kanban/Alteração telas relatórios litros horas.md",
     "💻 Kanban/4889 - Número da NFSe no boleto (boleto fatura).md",
-    "💻 Kanban/VPO.md",
     "💻 Kanban/Sprint 22 - Esquadrões.md",
-    "💻 Kanban/4624 - Melhorias na tela liberação de transação.md",
     "💻 Kanban/Gerenciamento de Tags.md",
     "💻 Kanban/Pré pago.md",
-    "💻 Kanban/Adiantamento.md",
-    "💻 Kanban/Daily do bank verificar.md",
-    "💻 Kanban/Osvaldo - duvidas.md",
-    "💻 Kanban/Pix personalizado suporte.md",
-    "💻 Kanban/code review projetos.md",
-    "💻 Kanban/Conta digital - mais de um acesso.md",
-    "💻 Kanban/Pedido Alex - Tarefas prioridades.md",
-    "💻 Kanban/5188 - Solicitação de Ajuste na Emissão de Notas para Filiais com Orientação de CNPJ na Transação T-PAG.md",
-    "💻 Kanban/✅ Desempenho dos times.md",
-    "💻 Kanban/Claudio - app.md",
-    "💻 Kanban/✅ Melhorias no time de análise.md",
     "Pessoal",
     "Estudos/Pasted image 20240924204700.png",
     "Pensamentos",

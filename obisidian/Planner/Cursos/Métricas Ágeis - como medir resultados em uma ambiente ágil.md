@@ -53,3 +53,19 @@ O lead time e o cycle time são métricas amplamente utilizadas para avalizar o 
 o Lead time é o tempo total decorrido desde o inicíio até o fim de um projeto ou fluxo de trabalho, abrangendo toda as etapas necessárias, desde a solicitação da tarefa até a entrega final do produto ou serviço. 
 Por outro lado, o Cycle time refere-se ao tempo médio necessário para concluir uma única tarefa ou unidade de trabalho dentro do processo, concentrando-se em uma etapa mais específica do trabalho. Essa métrica permite identificar o tempo gasto em cada processo e possíveis áreas de melhoria, como identificar onde o projeto está levando mais tempo e como aplicar melhorias. 
 O Cycle time geralmente é um indicativo da eficiência e produtividade do projeto. 
+### Métricas de vaidade
+Parecem relevantes, mas não fornecem compreensão significativa
+#### Analisando as métricas 
+Livro "A startup enxuta" (The lean startup) de Eric ries, onde são apresentados 3 pontos-chaves para avaliar se uma métrica é significativa. 
+1. Acionável: precisa ter uma causa, um efeito e gerar uma ação; 
+2. Acessível: fácil, visível e compreensível; 
+3. Auditável: boa saúde de dados (ter certeza que a métrica é confiável). 
+Uma boa métrica é aquela que possui 3 características fundamentais. Primeiramente, ela precisa ser acionável, ou seja ter uma relação clara de causa e efeito, de forma a gerar ações concretas, além disso, a métrica deve ser acessível, sendo facilmente visível e compreensível para todos os envolvidos. 
+
+### Analise seus dados com olhar crítico 
+Você precisa compreender qual é o contexto da coleta daqueles dados. Além disso, é importante entender quais prazos foram aplicados a essa coleta e o contexto da sua equipe durante esse período. 
+### Aplique ações concretas 
+Isso é o que estamos falando durante todo o curso: é preciso ter em mente que toda medição deve resultar numa ação. Para isso, é necessário analisar os dados para saber exatamente qual ação deve ser tomada. 
+Por exemplo: se você realizou uma medição e percebeu que há uma tarefa que demora muito tempo para ser concluída, você pode tomar uma ação concreta para otimizá-la. 
+## Quais ações que você quer tomar 
+- quais ações que você vai tomar com as métricas. 
