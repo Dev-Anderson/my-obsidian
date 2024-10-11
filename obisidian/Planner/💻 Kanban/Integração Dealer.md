@@ -5,4 +5,4 @@ Concluir a integração com o Dealer
 Fevereiro de 2025 
 # Ações
 tudo está ali...
-[[💩 Tarefas#^ibhp3l]]
+[[Tarefas#^ibhp3l]]

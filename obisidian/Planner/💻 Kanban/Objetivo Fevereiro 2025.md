@@ -1,13 +1,13 @@
 # Novos objetivos para Novembro
-1. [Acompanhamento de tarefas (bloqueadas/vencidas/importantes)]([[💩 Tarefas#^0jixu6]])
-3. [Organização da sprint]([[💩 Tarefas#^2xrmdw]])
-5. [Definição de prioridade de tarefas]([[💩 Tarefas#^fcd05w]])
-6. [Concluir a integração Dealer]([[💩 Tarefas#^2hb9vd]])
-7. [Desempenho dos times acompanhamento]([[💩 Tarefas#^e4gybg]])
-8. [Bitrix demandas de negócio]([[💩 Tarefas#^9nth27]])
-9. [Melhorias no processo com o Misa ]([[💩 Tarefas#^y36vla]])
-10. [Melhorias no time de analise]([[💩 Tarefas#^fhivt8]])
-11. [Aproximação do time de negócio]([[💩 Tarefas#^xvqgcc]])
+1. [Acompanhamento de tarefas (bloqueadas/vencidas/importantes)]([[Tarefas#^0jixu6]])
+3. [Organização da sprint]([[Tarefas#^2xrmdw]])
+5. [Definição de prioridade de tarefas]([[Tarefas#^fcd05w]])
+6. [Concluir a integração Dealer]([[Tarefas#^2hb9vd]])
+7. [Desempenho dos times acompanhamento]([[Tarefas#^e4gybg]])
+8. [Bitrix demandas de negócio]([[Tarefas#^9nth27]])
+9. [Melhorias no processo com o Misa ]([[Tarefas#^y36vla]])
+10. [Melhorias no time de analise]([[Tarefas#^fhivt8]])
+11. [Aproximação do time de negócio]([[Tarefas#^xvqgcc]])
 
 # Objetivos combinados
 1. Responsabilidade do suporte

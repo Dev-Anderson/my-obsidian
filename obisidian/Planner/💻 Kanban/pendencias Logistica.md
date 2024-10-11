@@ -10,7 +10,7 @@ Marcos castro
 
 -----
 
-[Geovani José]([[💩 Tarefas#^jc5aku]])
+[Geovani José]([[Tarefas#^jc5aku]])
 	O Macena estava fazendo algumas correções pra mim no EP [/adiantamento](https://api.hml.truckpagbank.com.br/storage/docs/index.html#adiantamento-GETweb-adiantamento) para a tarefa de [Gestão de Adiantamentos](https://truckpag.kanbanize.com/ctrl_board/44/cards/5364/details/)
 
 ---

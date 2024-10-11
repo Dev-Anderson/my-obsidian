@@ -10,6 +10,6 @@ A ideia da reunião é saber o que o Raul quer dentro da empresa
 # Comentários
 ## 2024-09-20
 ### 08:15
-[- Acesso ao banco de dados]([[💩 Tarefas#^tjzgit]])
-- [Conseguir um acesso ao gitlab]([[💩 Tarefas#^tjzgit]])
+[- Acesso ao banco de dados]([[Tarefas#^tjzgit]])
+- [Conseguir um acesso ao gitlab]([[Tarefas#^tjzgit]])
 - Curso sobre as integrações como que eu posso fazer para entender melhor sobre isso
