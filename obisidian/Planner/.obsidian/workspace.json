@@ -4,56 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fa17eb8e3dd56aee",
+        "id": "9d2069b4fe9d8cba",
         "type": "tabs",
         "children": [
           {
-            "id": "bce48bb896eab42f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "💻 Kanban/💩 Tarefas.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "fb6c4521d0f5dab2",
+            "id": "0748e3958b9ad9a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💻 Kanban/👽 Tarefa importantes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec5fcc6bcd470e82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💻 Kanban/Acompanhamento de tarefas.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 Kanban/Acompanhamento de tarefas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💻 Kanban/Acompanhamento de tarefas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "💻 Kanban/Acompanhamento de tarefas.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -185,21 +143,25 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "ec5fcc6bcd470e82",
+  "active": "0748e3958b9ad9a4",
   "lastOpenFiles": [
-    "💻 Kanban/👽 Tarefa importantes.md",
-    "💻 Kanban/Acompanhamento de tarefas.md",
+    "💻 Kanban/Pix personalizado (QR Code).md",
+    "💻 Kanban/Integração Dealer,.md",
     "💻 Kanban/💩 Tarefas.md",
+    "💻 Kanban/👽 Tarefa importantes.md",
+    "💻 Kanban/VPO.md",
+    "[[💩.md",
+    "💻 Kanban/5595 - Mostrar saldo do PIX.md",
+    "💻 Kanban/Segurança.md",
+    "💻 Kanban/Aviso de tarefas prontas.md",
+    "💻 Kanban/Acompanhamento de tarefas.md",
     "Sem título.md",
     "Artigos/Kanban o que é, principais conceitos e como funcionado no dia a dia.md",
     "Cursos/Kanban Evolua suas entregas com métricas.md",
     "Cursos/Métricas Ágeis - como medir resultados em uma ambiente ágil.md",
     "💻 Kanban/4624 - Melhorias na tela liberação de transação.md",
-    "💻 Kanban/Integração Dealer,.md",
-    "💻 Kanban/Aviso de tarefas prontas.md",
     "💻 Kanban/4642 - Alteração de registro por um usuário que não tem permissão.md",
     "💻 Kanban/5418 -Alteração telas relatórios litros horas.md",
-    "💻 Kanban/VPO.md",
     "💻 Kanban/Cobrança de tarefas.md",
     "Truckpag/TruckPag Acesso.md",
     "💻 Kanban/Osvaldo - duvidas.md",
@@ -209,11 +171,7 @@
     "💻 Kanban/Acesso a conta digital.md",
     "💻 Kanban/Tarefa importante Alex.md",
     "💻 Kanban/Dock - Demora em responder.md",
-    "💻 Kanban/Pix personalizado (QR Code).md",
     "💻 Kanban/4889 - Número da NFSe no boleto (boleto fatura).md",
-    "💻 Kanban/Sprint 22 - Esquadrões.md",
-    "💻 Kanban/Gerenciamento de Tags.md",
-    "💻 Kanban/Pré pago.md",
     "Pessoal",
     "Estudos/Pasted image 20240924204700.png",
     "Pensamentos",

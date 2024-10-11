@@ -24,7 +24,6 @@ Eu estou pensando em avisar o pessoal do negócio,
 - A cobrança de tarefas ficará com os tech leads 
 - Cobrar as tarefas vencidas (é com o tech lead)
 - Receber a lista de tarefas que vai entrar na sprint isso será em todos os times
-- 
 ### Tarefas
 ✅ Acompanhar as tarefas importantes para cada projeto; 
 ✅ Falar com o lideres de negócio para saber as prioridades; 

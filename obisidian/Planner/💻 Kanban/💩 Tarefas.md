@@ -6,13 +6,14 @@ kanban-plugin: board
 
 ## backlog
 
+- [ ] [[VPO]] #logistica ^rtb3lg
+- [ ] [[Integração Dealer,]] #truckpag #gestaomanutencao #diretoria ^ibhp3l
+- [ ] [[5595 - Mostrar saldo do PIX]]
 - [ ] [[4642 - Alteração de registro por um usuário que não tem permissão]] #diretoria
 - [ ] [[Osvaldo - duvidas]]
-- [ ] [[VPO]] #logistica
 - [ ] [[Cobrança de tarefas]]
 - [ ] [[Adiantamento]] #diretoria #logistica
 - [ ] [[5418 -Alteração telas relatórios litros horas]] #diretoria
-- [ ] [[Pix personalizado (QR Code)]] #diretoria
 - [ ] [[Gerenciamento de Tags]] #diretoria
 - [ ] [[Pré pago]] #diretoria
 - [ ] [[Conta digital - mais de um acesso]] #diretoria
@@ -35,14 +36,15 @@ kanban-plugin: board
 
 ## fazendo
 
-- [ ] [[Aviso de tarefas prontas]]
-- [ ] [[Integração Dealer,]] #truckpag #gestaomanutencao ^ibhp3l
 - [ ] [[👽 Tarefa importantes]]
+- [ ] [[Pix personalizado (QR Code)]] #diretoria
 - [ ] [[4624 - Melhorias na tela liberação de transação]]
+- [ ] [[Segurança]]
 
 
 ## Concluido
 
+- [ ] [[Aviso de tarefas prontas]]
 - [ ] Mostrar o ID na tela (cartão)
 - [ ] pagamento das contas
 - [ ] [[Tarefa importante Alex]]

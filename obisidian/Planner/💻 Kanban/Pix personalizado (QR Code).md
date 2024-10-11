@@ -12,6 +12,15 @@ Depois que entra o dinheiro, ela vai utilizar esse dinheiro para abater as fatur
 
 
 # Comentários
+## 10-10-2024
+### 15:26
+teste realizado junto com o Ronaldo + Felipe
+Teste 01 
+Fazer um pix de R$ 200,00 verificar se vai entrar no titulo em aberto = OK 
+Teste 02 
+Fazer um pix de R$ 100,00 verificar se ele vai abater no titulo em abert e depois ele não fica duplicado = OK 
+Teste 03 
+Fazer um pix no valor maior que o titulo e depois verificar se vai abater o tiulo em aberto e depois ficar um saldo de crédito => Em fase de teste vai concluir amanhã de manhã quanto tiver outro titulo; 
 ## 07-10-2024
 ### 11:52
 enviado mensagem para a Maieza para saber se será possível cumprir com o prazo enviado; 

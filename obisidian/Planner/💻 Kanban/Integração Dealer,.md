@@ -22,6 +22,19 @@ Reunião para tratar dos testes dos endponits e como que será os testes;
 
 
 # Comentários
+## 10-10-2024
+### 08:44
+Duvida sobre o faturamento da nota fiscal, é possível faturar várias tipos de OS no mesmo tempo ?
+Verificando isso com o Emmanuel
+## 09-10-2024
+### 13:59
+- Novo campo de periodicidade 
+foi solicitado para ver se esse novo campo vai impactar na integração, em conversa com o pessoal isso não vai impactar em nada. 
+Exemplos: 
+Se na hora do envio dos dados para o Dealer ele passar uma condição mensal, porém no envio das parcelas estiver quinzenal como que vamos fazer ? 
+nós vamos ter validações ? 
+
+Raul vai atualizar o manual, antes ele precisa verificar o retorno; 
 ## 08-10-2024
 ### 14:21
 Dentro do manual de consulta pagamentos, deixei algumas observações para o Raul

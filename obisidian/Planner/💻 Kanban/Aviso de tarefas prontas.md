@@ -16,6 +16,9 @@ liberado versão dia 07/10
 liberado versão dia 07/10
 
 # Comentários 
+## 09-10-2024
+### 13:57
+foi repassado pare o Leo porém não tive resposta dele, vamos ver mais depois como que podemos melhorar isso. 
 ## 08-10-2024
 ### 14:59
 foi enviado mensagem para o Leo avisando das tarefas, vamos ver o que ele acha sobre isso

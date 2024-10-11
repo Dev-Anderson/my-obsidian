@@ -14,6 +14,10 @@ Tarefas
 - falar com o Ghesti sobre a liberação; 
 - agendar um teste junto com o cliente; 
 # Comentários
+## 10-10-2024
+### 08:40
+Está com falha na importação da planilha, eu estou aguardando o Vini verificando junto com a Maieza a correção.
+Aguardando o Vini responder;
 ## 03-10-2024
 ### 15:28
 enviado mensagem para o Ghesti para saber se ele chegou a testar a tela, ainda não tive resposta; 

@@ -2,18 +2,26 @@
 # Gestão de frotas
 ## Projetos
 🎯 Pix personalizado (prazo 08/10/2024)
-Não falei com a Maieza sobre as correções, não sei se subiu todas as correções, assim que ela entrar eu vou falar com ela. 
-5595 - mostrar saldo do PIX; 
-A tarefa está na sprint 22 
+- teste ok, falta os seguintes testes que o Ronaldo vai fazer
+	- baixa total de titulo vencido 
+	- baixa total de titulo vencido + baixa parcial de titulo a vencer
+- Melhorias 
+	- QRcode pix mostrar o PDF na tela; 
+	- Travar apenas abastecimento; 
+	- Limite do PIX está contando com o limite do serviço; 
+5595 - mostrar saldo do PIX (prazo 21/10/2024); 
+- Saldo do PIX dentro do cadastro do cliente (falar com o Vini)
+
 
 🎯 Pré Pago (parado)
-Está parada para resolver os problemas do Pix, além dos bugs do Pix será necessário fazer a tarefa 5595 - Mostrar saldo do PIX antes de voltar para as tarefas do pré pago. 
+- levantando todas as tarefa para pegar o prazo; 
+- conversado com a Maieza para viabilizar um prazo;  
 
 🎯 Segurança (Em andamento - sem prazo)
+ 4931 - Expiração do token - encaminhar o usuário à tela de login + refresh do token (em andamento)
+- conversado com a Maieza pra colocar essa tarefa na sprint 22
 4642 - Alteração de registro por um usuário que não tem permissão
-	O dev pegou a tarefa para fazer
-5083 - Histórico de senha - André pediu atenção para essa tarefa;
-	André vai pegar a tarefa porque precisa urgente
+- em andamento
 
 🎯 PDD - Previsão para devedores duvidosos (prazo 05/12/2024)
 Não vai entrar na sprint 22 (07 a 18/10), foi priorizado outra tarefa; 
@@ -28,54 +36,49 @@ A tela está em protótipo junto com Vini + Noia e Ghesti, sem prazo por hora;
 
 🎯 Gerenciamento de tags (sem prazo)
 5227 - Aplicação das permissões sobre "Nova tela parâmetros pedágio - veiculo x tags"
-Já está sendo concluído com o front-end; 
+- tarefa em fase de teste; 
 
 🎯 5418 - Alteração nas telas de relatórios - Litros/Hora (prazo 14/10) 
 Falei com o Vini que o prazo para a analise é até dia 14/10, depois da análise eu vou verificar qual sprint isso vai entrar; 
 ## Tarefas
 
 🎯 4624 - Melhorias na tela de liberação de transação (prazo 16/10/2024)
-Adiantado o prazo, pode terminar antes, porém é mais garantido dia 16/10
+- tarefa em andamento, está dentro do prazo combinado;
+🎯 5162 - Alteração na tela "Transaçãoes vs NFE - Admin" - TRANSCAMILA - IBIPORA (prazo 17/10/2024)
+- tarefa em andamento, está dentro do prazo combinado;
 
 # Gestão de manutenção
 ## Projetos
 🎯 Integração Dealer (Novembro 2024) 
-- Consulta venda balcão (OK)
 - Manual de consulta pagamento - concessionária
 	- Fiz alguns apontamentos no manual, que precisam ser melhorados
 - Manual de consulta de faturamento
 - Cancelamento de OS (prazo 14/10)
 	- Está dentro do prazo, tudo certo por hora; 
-- Envio de e-mail para o Dealer 
-	- Atualizado os manuais com o novo endpoint de consulta venda balcão
 - E-mail sobre o cancelamento de OS (prazo 14/10)
 
-🎯 Número da NFSe (OK)
-- Cidades prioritárias que o Letti passou = OK 
-- Reunião sobre o funcionamento = OK 
-
 🎯 Campo de periodicidade (sem prazo)
-- Alteração perigosa, vai impactar no faturamento e também na integração do Dealer
-- Vou agendar uma reunião com os Devs para falar sobre o impacto na integração
+- Fiz alguns apontamentos/cuidados para tomar no momento da alteração; 
 Observação:
-- Todas as alterações a partir de agora, pode impactar a integração com o Dealer, devemos tomar cuidado para não alterar o prazo do Dealer
+- Qualquer tipo de alteração do Gestão de manutenção DAF, precisamos levar em consideração a integração com o Dealer; 
 # Logistica
 🎯 VPO - Vale pedágio obrigatório (ATRASADO)
-- Planilha de praça de pedágio + preço = OK 
-- Aguardando o Ghesti;
+- Falha na importação na importação da planilha, Maieza está corrigindo; 
 
 🎯 Adiantamento (sem prazo)
-- Está em teste do QA
-- eu vou viabilizar um prazo ainda essa semana para essa tarefa; 
+- Em teste; 
 
 🎯 Morpheus (parado)
 - Estamos com outras prioridades antes dessa implementação; 
 
 🎯 5592 - Gerenciamento de dispositivo (prazo 30/10/2024)
-- Eu estou validando o documento de analise antes de passar para os Devs, estamos alinhando as implementações que precisamos fazer; 
+- O documento de analise está OK, Naty vai validar o documento de analise com o Ghesti + Claudio; 
 
 🎯 Acesso de mais de um dispositivo na conta digital (parado)
 - Estamos com outras prioridades no time (Gerenciamento de dispositivo); 
 
 🎯 2222 - Permitir vincular clientes aos usuários (Em andamento)
 - Tarefa entrou na sprint 22 (07 a 18/10) - essa tarefa não é prioridade para o time
+
+🎯 5113 - Novo formato de exportação de extrato da conta bancária .ofx
+- enviado para analise
