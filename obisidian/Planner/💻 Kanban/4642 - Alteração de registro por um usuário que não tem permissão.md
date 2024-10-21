@@ -1,6 +1,9 @@
 # Descrição
 
 # Comentários 
+## 21-10-2024
+### 14:27
+A tarefa foi para CR e ainda precisa ser revisada; 
 ## 08-10-2024
 ### 12:22
 O Dev já pegou a tarefa, só precisa monitorar a tarefa; 

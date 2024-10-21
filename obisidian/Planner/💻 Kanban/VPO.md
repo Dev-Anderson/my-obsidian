@@ -14,6 +14,27 @@ Tarefas
 - falar com o Ghesti sobre a liberação; 
 - agendar um teste junto com o cliente; 
 # Comentários
+## 21-10-2024
+### 13:56
+agendado reunião dia 22/10 as 08:30 com o Ghesti para falar sobre o assunto; 
+## 18-10-2024
+### 11:36
+Alex, cobrou a tarefa, falei com o Vini para saber se ele teve alguma resposta, ainda ele não teve então estamos aguardando o Ghesti. 
+## 17-10-2024
+### 15:15
+Aguardando a validação do Ghesti, com as importações das planilhas de praça de pedágio e valores do pedágio; 
+## 15-10-2024
+### 11:09
+Vini pediu para rodar a tarefa porém ele ainda não teve a resposta do Dev, eu estou vendo o que aconteceu. 
+[Link da nossa conversa](https://truckpag.slack.com/archives/C07PRKVD23E/p1728929752575039)
+ontem o Ghesti passou a planilha para conseguir importar todas as praças de pedágio no nosso banco de dados, eu estou falando com o Vini para conseguir liberar isso o quanto antes. 
+## 14-10-2024
+### 15:28
+enviado planilha para o Vini atualizar dentro do Gestão; Aguardando o Vini atualizar
+### 14:46
+Ghesti ficou de pegar o relatório
+### 09:58
+Ghesti pediu como que está atualização da planilha de praça de pedágio
 ## 10-10-2024
 ### 08:40
 Está com falha na importação da planilha, eu estou aguardando o Vini verificando junto com a Maieza a correção.

@@ -2,6 +2,14 @@
 Alex pediu se é possível entregar essa tarefa até dia 21/10 
 
 # Comentários
+## 21-10-2024
+### 14:13 
+foi enviado mensagem para o Leo para avisar sobre a tarefa, ele ainda não respondeu dentro do whats; 
+## 15-10-2024
+### 13:43
+Aguardando o Fernando responder; 
+### 10:46
+agenda para a próxima versão 16/10/2024
 ## 08-10-2024
 
 ### 15:24

@@ -4,44 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9d2069b4fe9d8cba",
+        "id": "a801c5012e2a1966",
         "type": "tabs",
         "children": [
           {
-            "id": "0748e3958b9ad9a4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "💻 Kanban/Tarefas.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "6ace4851da80849b",
+            "id": "cd95968653c3c8b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💻 Kanban/Prioridade com o Leo farmer.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -76,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
             }
           },
           {
@@ -84,14 +64,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 396.5
+    "width": 396.5,
+    "collapsed": true
   },
   "right": {
     "id": "7878467710a10474",
@@ -107,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💻 Kanban/Prioridade com o Leo farmer.md",
+                "file": "💻 Kanban/Tarefas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +98,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Tarefas"
             }
           },
           {
@@ -124,10 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💻 Kanban/Prioridade com o Leo farmer.md",
+                "file": "💻 Kanban/Tarefas.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Tarefas"
             }
           },
           {
@@ -138,7 +125,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -147,8 +136,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💻 Kanban/Prioridade com o Leo farmer.md"
-              }
+                "file": "💻 Kanban/Tarefas.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Tarefas"
             }
           }
         ],
@@ -172,35 +163,35 @@
       "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "6ace4851da80849b",
+  "active": "cd95968653c3c8b3",
   "lastOpenFiles": [
-    "💻 Kanban/Verificar o campo \"os_id\".md",
-    "💻 Kanban/Prioridade com o Leo farmer.md",
     "💻 Kanban/Tarefas.md",
-    "💻 Kanban/Pix personalizado (QR Code).md",
-    "💻 Kanban/Pix personalizado suporte.md",
     "💻 Kanban/👽 Tarefa importantes.md",
-    "💻 Kanban/Integração Dealer,.md",
-    "💻 Kanban/VPO.md",
-    "[[💩.md",
+    "💻 Kanban/Verificar tarefas de integração com o GF.md",
+    "Priorização das tarefas Gestão de frotas.md",
+    "💻 Kanban/Farmer ver as tarefas importantes.md",
+    "💻 Kanban/Montar o curriculum tem vaga.md",
+    "💻 Kanban/Campo periodicidade.md",
+    "💻 Kanban/2222 - Permitir vincular clientes aos usuários (sem prazo).md",
     "💻 Kanban/5595 - Mostrar saldo do PIX.md",
-    "💻 Kanban/Segurança.md",
-    "💻 Kanban/Aviso de tarefas prontas.md",
-    "💻 Kanban/Acompanhamento de tarefas.md",
-    "Sem título.md",
-    "Artigos/Kanban o que é, principais conceitos e como funcionado no dia a dia.md",
-    "Cursos/Kanban Evolua suas entregas com métricas.md",
-    "Cursos/Métricas Ágeis - como medir resultados em uma ambiente ágil.md",
-    "💻 Kanban/4624 - Melhorias na tela liberação de transação.md",
     "💻 Kanban/4642 - Alteração de registro por um usuário que não tem permissão.md",
     "💻 Kanban/5418 -Alteração telas relatórios litros horas.md",
+    "💻 Kanban/Pré pago.md",
+    "💻 Kanban/Boleto fatura - falha.md",
+    "💻 Kanban/4624 - Melhorias na tela liberação de transação.md",
     "💻 Kanban/Cobrança de tarefas.md",
-    "Truckpag/TruckPag Acesso.md",
-    "💻 Kanban/Osvaldo - duvidas.md",
-    "💻 Kanban/Adiantamento.md",
-    "Cursos/Mindset digital técnicas habilidades para lideranças remotas.md",
+    "💻 Kanban/VPO.md",
+    "💻 Kanban/Tela de atendimento.md",
+    "💻 Kanban/Cancelamento de OS GM.md",
+    "💻 Kanban/5192 - Alterações relatório de exportação Gestão Despesas Lançamento de Crédito.md",
+    "💻 Kanban/Tarefas financeiro.md",
+    "💻 Kanban/Régua de cobrança.md",
+    "💻 Kanban/Segurança.md",
+    "💻 Kanban/Suporte Financeiro - Ronaldo.md",
+    "💻 Kanban/Falha na emissão de nota fiscal.md",
+    "Falha na emissão de nota fiscal Destro.md",
+    "💻 Kanban/Gerenciamento de Tags.md",
     "Pasted image 20240926191912.png",
-    "💻 Kanban/Acesso a conta digital.md",
     "Pessoal",
     "Estudos/Pasted image 20240924204700.png",
     "Pensamentos",

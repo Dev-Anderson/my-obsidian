@@ -6,44 +6,66 @@ kanban-plugin: board
 
 ## backlog
 
-- [ ] [[VPO]] #logistica ^rtb3lg
-- [ ] [[Integração Dealer,]] #truckpag #gestaomanutencao #diretoria ^ibhp3l
+- [ ] [[Campo periodicidade]]
+- [ ] [[2222 - Permitir vincular clientes aos usuários (sem prazo)]]
 - [ ] [[5595 - Mostrar saldo do PIX]]
 - [ ] [[4642 - Alteração de registro por um usuário que não tem permissão]] #diretoria
-- [ ] [[Osvaldo - duvidas]]
-- [ ] [[Cobrança de tarefas]]
-- [ ] [[Adiantamento]] #diretoria #logistica
 - [ ] [[5418 -Alteração telas relatórios litros horas]] #diretoria
-- [ ] [[Gerenciamento de Tags]] #diretoria
 - [ ] [[Pré pago]] #diretoria
+- [ ] [[Boleto fatura - falha]]
+- [ ] [[VPO]] #logistica ^rtb3lg
+- [ ] [[Régua de cobrança]]
+- [ ] [[5192 - Alterações relatório de exportação Gestão Despesas Lançamento de Crédito]]
+- [ ] [[Cancelamento de OS GM]]
+- [ ] Organização das tarefas GM
+- [ ] [[Tela de atendimento]]
+- [ ] [[5592 - Gerenciamento de dispositivo (prazo 30 10 2024)]]
+- [ ] Atualizar prazos tarefas importantes
+- [ ] [[Pesquisa sobre o Jira]]
+- [ ] [[Segurança]] #diretoria
+- [ ] [[5176 - Site canal denuncias]]
+- [ ] [[Pix personalizado (QR Code)]] #diretoria
+- [ ] [[Plano de manutenção]] #diretoria
+- [ ] [[Integração Dealer]] #truckpag #gestaomanutencao #diretoria ^ibhp3l
+- [ ] [[Osvaldo - duvidas]]
+- [ ] [[Gerenciamento de Tags]] #diretoria
+- [ ] [[Adiantamento]] #diretoria #logistica
 - [ ] [[Conta digital - mais de um acesso]] #diretoria
 - [ ] [[PDD - financeiro]] #diretoria
 - [ ] [[Acesso a conta digital]]
 - [ ] [[acesso ao truckpag bank]] #logistica
 - [ ] [[Contabilidade - troca de contador]] #pessoal
-- [ ] [[pendencias Logistica]]
 - [ ] [[Logistica]]
-- [ ] [[Prioridade da planilha de Esquemas solicitações]] #truckpag #gestaofrotas
-- [ ] [[Prioridade com o Leo farmer]] #truckpag #gestaofrotas
 - [ ] pesquisar sobre KPI #pessoal
 - [ ] [[Tarefas vencidas + 30 dias]] #truckpag #gestao
-- [ ] [[Priorização das tarefas Gestão de frotas]] #truckpag #gestaofrotas
-- [ ] [[Verificar tarefas de integração com o GF]] #truckpag
-- [ ] [[Suporte para troca de parcelas cancelamento de OS]] #truckpag
-- [ ] [[Faturamento automático parte 02]] #truckpag #gestaofrotas
-- [ ] [[5188 - Solicitação de ajuste na emissão de notas para]]
 
 
 ## fazendo
 
 - [ ] [[👽 Tarefa importantes]]
-- [ ] [[Pix personalizado (QR Code)]] #diretoria
-- [ ] [[4624 - Melhorias na tela liberação de transação]]
-- [ ] [[Segurança]]
+- [ ] [[Prioridade com o Leo farmer]] #truckpag #gestaofrotas
+- [ ] [[Verificar tarefas de integração com o GF]] #truckpag
+- [ ] [[5188 - Solicitação de ajuste na emissão de notas para]]
+- [ ] [[Faturamento automático parte 02]] #truckpag #gestaofrotas
+- [ ] [[Suporte para troca de parcelas cancelamento de OS]] #truckpag
+- [ ] [[Prioridade da planilha de Esquemas solicitações]] #truckpag #gestaofrotas
+- [ ] [[pendencias Logistica]]
+- [ ] [[Montar o curriculum tem vaga]]
 
 
 ## Concluido
 
+- [ ] [[Priorização das tarefas Gestão de frotas]] #truckpag #gestaofrotas
+- [ ] [[Farmer ver as tarefas importantes]]
+- [ ] [[4624 - Melhorias na tela liberação de transação]]
+- [ ] [[Cobrança de tarefas]]
+- [ ] [[Falha na emissão de nota fiscal]]
+- [ ] [[Tarefas financeiro]] #diretoria
+- [ ] [[Suporte Financeiro - Ronaldo]]
+- [ ] [[5162 - Alteração na tela Transaçãoes vs NFE - Admin - TRANSCAMILA - IBIPORA]]
+- [ ] [[Falar com o Alex sobre audio do Kassio no grupo]]
+- [ ] [[Relatório de pedágio André]]
+- [ ] [[GANTT tarefas importantes]]
 - [ ] [[Aviso de tarefas prontas]]
 - [ ] Mostrar o ID na tela (cartão)
 - [ ] pagamento das contas
@@ -86,11 +108,11 @@ kanban-plugin: board
 - [ ] [[Organização da sprint]] #objetivo ^2xrmdw
 - [ ] [[Definição de prioridades]] #objetivo ^fcd05w
 - [ ] [[Integração Dealer]] #objetivo ^2hb9vd
-- [ ] [[✅ Desempenho dos times]] #objetivo ^e4gybg
 - [ ] [[Melhorias no bitrix]] #objetivo ^9nth27
+- [ ] [[Aproximação do time de negócio]] ^xvqgcc
+- [ ] [[✅ Desempenho dos times]] #objetivo ^e4gybg
 - [ ] [[✅ Melhorias no processo com o Misa]] #objetivo ^y36vla
 - [ ] [[✅ Melhorias no time de análise]] #objetivo ^fhivt8
-- [ ] [[Aproximação do time de negócio]] ^xvqgcc
 
 
 ***
