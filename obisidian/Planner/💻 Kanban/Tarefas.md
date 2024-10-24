@@ -6,6 +6,9 @@ kanban-plugin: board
 
 ## backlog
 
+- [ ] [[Marketing informações]]
+- [ ] [[VPO]] #logistica ^rtb3lg
+- [ ] [[Faturamento automático parte 02]] #truckpag #gestaofrotas
 - [ ] [[Campo periodicidade]]
 - [ ] [[2222 - Permitir vincular clientes aos usuários (sem prazo)]]
 - [ ] [[5595 - Mostrar saldo do PIX]]
@@ -13,7 +16,6 @@ kanban-plugin: board
 - [ ] [[5418 -Alteração telas relatórios litros horas]] #diretoria
 - [ ] [[Pré pago]] #diretoria
 - [ ] [[Boleto fatura - falha]]
-- [ ] [[VPO]] #logistica ^rtb3lg
 - [ ] [[Régua de cobrança]]
 - [ ] [[5192 - Alterações relatório de exportação Gestão Despesas Lançamento de Crédito]]
 - [ ] [[Cancelamento de OS GM]]
@@ -28,7 +30,6 @@ kanban-plugin: board
 - [ ] [[Plano de manutenção]] #diretoria
 - [ ] [[Integração Dealer]] #truckpag #gestaomanutencao #diretoria ^ibhp3l
 - [ ] [[Osvaldo - duvidas]]
-- [ ] [[Gerenciamento de Tags]] #diretoria
 - [ ] [[Adiantamento]] #diretoria #logistica
 - [ ] [[Conta digital - mais de um acesso]] #diretoria
 - [ ] [[PDD - financeiro]] #diretoria
@@ -42,19 +43,21 @@ kanban-plugin: board
 
 ## fazendo
 
+- [ ] [[Gerenciamento de Tags]] #diretoria
 - [ ] [[👽 Tarefa importantes]]
 - [ ] [[Prioridade com o Leo farmer]] #truckpag #gestaofrotas
-- [ ] [[Verificar tarefas de integração com o GF]] #truckpag
-- [ ] [[5188 - Solicitação de ajuste na emissão de notas para]]
-- [ ] [[Faturamento automático parte 02]] #truckpag #gestaofrotas
-- [ ] [[Suporte para troca de parcelas cancelamento de OS]] #truckpag
 - [ ] [[Prioridade da planilha de Esquemas solicitações]] #truckpag #gestaofrotas
-- [ ] [[pendencias Logistica]]
-- [ ] [[Montar o curriculum tem vaga]]
+- [ ] [[Tarefas de segurança]]
+- [ ] [[Tarefas liberadas na versão 23 10]]
 
 
 ## Concluido
 
+- [ ] [[Montar o curriculum tem vaga]]
+- [ ] [[pendencias Logistica]]
+- [ ] [[5188 - Solicitação de ajuste na emissão de notas para]]
+- [ ] [[Verificar tarefas de integração com o GF]] #truckpag
+- [ ] [[Suporte para troca de parcelas cancelamento de OS]] #truckpag
 - [ ] [[Priorização das tarefas Gestão de frotas]] #truckpag #gestaofrotas
 - [ ] [[Farmer ver as tarefas importantes]]
 - [ ] [[4624 - Melhorias na tela liberação de transação]]

@@ -14,6 +14,35 @@ Tarefas
 - falar com o Ghesti sobre a liberação; 
 - agendar um teste junto com o cliente; 
 # Comentários
+
+## 23-10-2024
+### 14:36
+Alex, estava verificando a falha; 
+### 11:58
+foi enviado mensagem falando da falha, o problema está acontecendo porque está carregando praça de pedágio que deveria ter apenas na "volta" e por isso que está com o valor incorreto, aguardando o marcos ou o outra pessoa responder sobre o problema. 
+### 11:35
+validação da praça de pedágio São Paulo a Paranagua 
+Levando em consideração Carro
+Rotas brasil
+----
+**  
+Pedágio: Régis Bittencourt**  
+Valor: 3,20 - 2 eixos
+Pedágio: São Lourenço da Serra**  
+Valor: 4,00 - 2 eixos
+Pedágio: Miracatu**  
+Valor: 4,00 - 2 eixos
+Pedágio: Juquiá**  
+Valor: 4,00 - 2 eixos
+Pedágio: Cajati**  
+Valor: 4,00 - 2 eixos
+Pedágio: Barra do Turvo**  
+Valor: 4,00 - 2 eixos
+Pedágio: Campina Grande do Sul**  
+Valor: 4,00 - 2 eixos
+ TOTAL = R$ 27,20 
+### 09:32
+Ghesti fez o teste da Rota e o mesmo encontrou algumas falhas ao carregar as rotas, precisa comprar com o que está dentro do arquivo da movemais e também da ANTT; 
 ## 21-10-2024
 ### 13:56
 agendado reunião dia 22/10 as 08:30 com o Ghesti para falar sobre o assunto; 

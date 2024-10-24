@@ -16,6 +16,9 @@ Marcos castro
 ---
 
 # Comentários
+## 23-10-2024
+### 15:06
+concluindo todas as tarefas estão em andamento; 
 ## 26-09-2024
 ### 19:58
 eu estou fazendo o levantamento das coisas ainda falta algumas coisas para fazer

@@ -28,6 +28,14 @@ Consolidado
 5631 - endpoint de upload de nota
 5640 - Remover obrigação da placa (3 dias)
 # Comentários
+## 23-10-2024
+### 15:40
+Fabio Dealer entrou em contato pedindo ajuda com algumas dúvidas, ele cobrou sobre o endpoint de upload de nota, eu estou em contato com o Christian para ver como que está essa alteração
+## 22-10-2024
+### 15:39
+em conversa com o Christian o mesmo passou que a tarefa que altera o endpoint de upload de nota, ainda está em code review. 
+### 14:08
+ainda precisa mandar o planner par para o Manu, montar como que vamos fazer isso; 
 ## 17-10-2024
 ### 14:13
 precisa montar um roadmap para o pessoal da DAF até dia 18/10/2024

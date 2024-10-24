@@ -11,8 +11,11 @@
 - ---
 E-mail bloqueados
 ## Prazo 
-come prazo para as duas tarefas (01/11/2024)
+prazo para as duas tarefas (01/11/2024)
 # Comentários 
+## 23-10-2024
+### 15:43
+Alex, entrou em contato pedindo para revisar as tarefas de segurança; 
 ## 21-10-2024
 ### 08:52
 4642 - vai sair 23/10 a tarefa pode ser perigosa. 

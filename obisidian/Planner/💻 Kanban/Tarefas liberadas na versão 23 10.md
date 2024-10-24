@@ -1,0 +1,9 @@
+- 4943 - Melhoras na tela "Historico de preços" e "Preços de Combustíveis" - RF-02 A RF-03" 
+- 4642 - Segurança: Permissão Vínculo de cartão coringa - Ajustado filtro na consulta base e calculando totais sem reptir lotes - 
+- 4642 - Segurança: Permissão Transação do TPAG - 
+- 4642 - Segurança: Permissão Liberação de crédito - 
+- 4642 - Segurança: Permissão de cadastro rede credenciada - 
+- 4642 - Segurança: Permissão de cadastro cliente - 
+- 4642 - Segurança: Permissão de cadastro veiculo - 
+- 4642 - Segurança: Permissão de cadastro gestor - 
+- 4642 - Segurança: Permissão solicitação de cartão - 5595 - Novas funcionalidades visualizar saldo - QR Code PIX - Criação do novo saldo pré-pago - 5642 - Ignorando tanques que tenham capacidade zeradas (cliente não controla estoque) - Merge branch 'feature/3263-criacao-do-novo-saldo-pre-pago' into 'homologacao' - Alteração upload de notas fiscais - Alterar o campo "Cidade" do filtro da tela "Negociações de Preços de Combustível - " - Servicarga - Alterar o campo "Cidade" do filtro da tela "Consolidado de Abastecimento" - Servicarga - Criação do novo saldo pré-pago - Criação de OS para Integração Parceiros

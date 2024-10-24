@@ -14,6 +14,10 @@ Dentro da tela de "Adiantamento" contém os seguinte campos:
 - para quem vai ir; 
 
 # Comentários
+## 22-10-2024
+### 15:19
+em conversa com a Val vamos precisar verificar como que vamos fazer a liberação dessa versão, se vamos fazer isso com todos ou vamos selecionar alguns clientes; 
+Pedi para a Nathally verificar se tem algum parâmetro 
 ## 07-10-2024
 ### 11:04
 A natasha vai dar continuidade nas tarefas que estavam com o Geovani, por hora segue sem prazo. 
